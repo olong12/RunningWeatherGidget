@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "version":"1.0",
+  "name":"Running Weather Gidget"
+  "action": {
+    "default_popup": "app.html",
+    "default_icon": "weather.png"
+  },
+  "permissions": [
+      "geolocation"
+  ]
+}
